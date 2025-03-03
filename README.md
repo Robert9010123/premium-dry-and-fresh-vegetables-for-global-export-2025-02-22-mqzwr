@@ -86,7 +86,7 @@ To update:
 The main CTA button currently links to:
 
 ```html
-<a href="https://sites.google.com" class="inline-block bg-green-600 text-white px-8 py-4 rounded-lg">
+<a href="premium-dry-and-fresh-vegetables-for-global-export-2025-02-22-mqzwr" class="inline-block bg-green-600 text-white px-8 py-4 rounded-lg">
 ```
 
 To fix:
